@@ -1,0 +1,7 @@
+{
+  "name": "weellsee-fcm-latest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

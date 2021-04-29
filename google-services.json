@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509596560321",
+    "firebase_url": "https://weellsee-default-rtdb.firebaseio.com",
+    "project_id": "weellsee",
+    "storage_bucket": "weellsee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509596560321:android:9071c4145fd1c8cefb9d40",
+        "android_client_info": {
+          "package_name": "com.weellsee.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509596560321-m7adq7ndvhrvggr0htlu8molbdt7qc1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1slexmflN69YsOm1kWDcryjycr8AvCP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509596560321-m7adq7ndvhrvggr0htlu8molbdt7qc1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
