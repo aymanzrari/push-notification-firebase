@@ -24,13 +24,13 @@ export class HomePage {
         "text": "hey there",
         "titre": "test"
       },
-      "to": "eNOKTbprRgWRltKELcF0HU:APA91bHPSy2wOIaY96II6nIuVNA8Q96ODm0_3-BjIkOv8ZyA6ANGBRl7Cfn2TAyDKmSKHABEPGuh1i_OvbiyFroB19LttEuBvSaqVO-Q3X_umSfMkYyJJ4sOIcSOenW3Mtoy_-ZV_Cpf"
+      "to": environment.userToken
     }
 
     const httpOptions = {
       headers: new HttpHeaders({
         'Content-Type':  'application/json',
-        'Authorization': 'key=AAAAdqZSa8E:APA91bH4qK3TjWBzcGY5Najk-4hSaNLrHhDWTvN19kAiC2S1Uz8uXXdDUgr8WygrczKhRNiK22zeLjWVQODL55tYqov8diOwrwSwipSFugiMkQugdtKQHxTOM9hVGKQ95cOAQd3kaqxb'
+        'Authorization': 'key='+environment.key
       })
     };
     
